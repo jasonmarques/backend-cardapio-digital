@@ -13,6 +13,7 @@ O projeto tem como propósito o desenvolvimento de um Cardápio Digital, proporc
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
 - **Java 17**: Utilização da versão LTS mais recente do Java, proporcionando recursos avançados e melhorias de desempenho.
+- **PostgreSQL** Banco de dados relacional para armazenamento eficiente de dados.
 - **Spring MVC**: Adoção do padrão Model-View-Controller (MVC) para a arquitetura, promovendo organização e escalabilidade do código.
 - **Spring Boot Devtools**: Facilita o recarregamento automático da página, agilizando o desenvolvimento.
 - **Spring Web**: Componente essencial na construção da aplicação web no ambiente Spring.
@@ -24,6 +25,8 @@ O projeto tem como propósito o desenvolvimento de um Cardápio Digital, proporc
 
 - **Java**
 - **IntelliJ IDEA**
+- **PostgreSQL**
+- **Postman** (opcional, para testar as APIs)
 
 <h2 id="how-to-use"> 🚀 Instalação do Projeto</h2>
 
